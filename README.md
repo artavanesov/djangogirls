@@ -15,9 +15,9 @@
 - [x] Django models
 - [x] Django admin
 - [x] Deploy!
-- [ ] Django URLs
-- [ ] Django views – time to create!
-- [ ] Introduction to HTML
+- [x] Django URLs
+- [x] Django views – time to create!
+- [x] Introduction to HTML
 - [ ] Django ORM (Querysets)
 - [ ] Dynamic data in templates
 - [ ] Django templates
