@@ -1,21 +1,20 @@
 # Django Girls Tutorial
 
-
 ## Progress
 
-- [ ] Introduction
-- [ ] Installation
-- [ ] How the Internet works
-- [ ] Introduction to command line
-- [ ] Python installation
-- [ ] Code editor
-- [ ] Introduction to Python
-- [ ] What is Django?
-- [ ] Django installation
-- [ ] Your first Django project!
-- [ ] Django models
-- [ ] Django admin
-- [ ] Deploy!
+- [x] Introduction
+- [x] Installation
+- [x] How the Internet works
+- [x] Introduction to command line
+- [x] Python installation
+- [x] Code editor
+- [x] Introduction to Python
+- [x] What is Django?
+- [x] Django installation
+- [x] Your first Django project!
+- [x] Django models
+- [x] Django admin
+- [x] Deploy!
 - [ ] Django URLs
 - [ ] Django views – time to create!
 - [ ] Introduction to HTML
