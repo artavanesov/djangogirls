@@ -29,5 +29,5 @@
 
 - [x] Homework: add more to your website!
 - [x] Homework: secure your website
-- [ ] Homework: create comment model
+- [x] Homework: create comment model
 - [ ] Optional: PostgreSQL installation
