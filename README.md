@@ -27,7 +27,7 @@
 
 ## Django Girls Tutorial: Extensions
 
-- [ ] Homework: add more to your website!
+- [x] Homework: add more to your website!
 - [ ] Homework: secure your website
 - [ ] Homework: create comment model
 - [ ] Optional: PostgreSQL installation
