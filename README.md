@@ -23,7 +23,7 @@
 - [x] CSS – make it pretty
 - [x] Template extending
 - [x] Extend your application
-- [ ] Django Forms
+- [x] Django Forms
 
 ## Django Girls Tutorial: Extensions
 
