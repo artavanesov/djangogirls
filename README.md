@@ -19,11 +19,10 @@
 - [x] Django views – time to create!
 - [x] Introduction to HTML
 - [x] Django ORM (Querysets)
-- [ ] Dynamic data in templates
-- [ ] Django templates
-- [ ] CSS – make it pretty
-- [ ] Template extending
-- [ ] Extend your application
+- [x] Dynamic data in templates
+- [x] CSS – make it pretty
+- [x] Template extending
+- [x] Extend your application
 - [ ] Django Forms
 
 ## Django Girls Tutorial: Extensions
