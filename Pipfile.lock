@@ -1,17 +1,19 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "eadb515d5fdd94039837d72b909ffb10eaf916a3e87484e77ae3ae732c84c20c"
+            "sha256": "3981d142abc72f58cee5e5fd0f92555eab4e01364dab1ccae09310bb368ad5d8"
         },
         "pipfile-spec": 6,
         "requires": {
             "python_version": "3.7"
         },
-        "sources": [{
-            "name": "pypi",
-            "url": "https://pypi.org/simple",
-            "verify_ssl": true
-        }]
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
     },
     "default": {
         "dj-database-url": {
@@ -29,13 +31,6 @@
             ],
             "index": "pypi",
             "version": "==2.2.9"
-        },
-        "entrypoints": {
-            "hashes": [
-                "sha256:589f874b313739ad35be6e0cd7efde2a4e9b6fea91edcc34e58ecbb8dbe56d19",
-                "sha256:c70dd71abe5a8c85e55e12c19bd91ccfeec11a6e99044204511f9ed547d48451"
-            ],
-            "version": "==0.3"
         },
         "gunicorn": {
             "hashes": [
