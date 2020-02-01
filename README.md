@@ -30,4 +30,4 @@
 - [x] Homework: add more to your website!
 - [x] Homework: secure your website
 - [x] Homework: create comment model
-- [ ] Optional: PostgreSQL installation
+- [x] Optional: PostgreSQL installation
