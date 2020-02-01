@@ -31,3 +31,4 @@
 - [x] Homework: secure your website
 - [x] Homework: create comment model
 - [x] Optional: PostgreSQL installation
+- [x] Deploy to Heroku (as well as PythonAnywhere)
